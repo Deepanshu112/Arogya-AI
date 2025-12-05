@@ -1,4 +1,3 @@
-
 # Arogya AI
 
 This AI-powered health assistant is designed to provide comprehensive healthcare solutions, combining the best of modern medicine with ancient wisdom. By analyzing your symptoms our model offers personalized recommendations.
@@ -25,7 +24,7 @@ Install ArogyaAI via npm
 Install ArogyaAI via Git Clone using cmd
 
 ```bash
-  git clone https://github.com/HarshdeepMishra/ArogyaAI
+  git clone https://github.com/Deepanshu112/ArogyaAI
 ```
 Download the lamma 2 model from hugging face by @TheBloke
 
@@ -47,3 +46,4 @@ run the chainlit app for running your model locally on your machine
 
 - [Chainlit](https://docs.chainlit.io/get-started/overview)
 - [Langchain](https://python.langchain.com/docs/introduction/)
+
